@@ -22,3 +22,6 @@ gcc decrypt.c fun.c -o decrypt.out
 * C99
 * C11
 * C17 or more
+
+## LICENSE
+[MIT](LICENSE "LICENSE")
